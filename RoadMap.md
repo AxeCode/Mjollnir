@@ -48,4 +48,4 @@
 - Docker
 - Rust
 - deno
-- etc
+- app dynamic modules（like picasso）
